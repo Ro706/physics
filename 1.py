@@ -5,15 +5,15 @@
 
 def menu():
    #print what options you have
-   print "welcome to calculator.py"
+   print "welcome to physics.py"
    print "your options are:"
    print ""
    print "1)power"
    print "2)electrical potential"
    print "3)pressure"
    print "4)surface tension"
-   print "5)Quit calculator.py"
-   print ""
+   print "5)Quit physics.py"
+   print  ""
    return input("choose your option:")
 
 #THIS DIVISION TWO NUMBERS GIVEN
